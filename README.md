@@ -14,13 +14,13 @@ python main.py --input video/test1.mp4
 ```
 
 # Architecture
-<img src="/introduce/architecture.jpg">
+<img src="/Railway_introduce/architecture.jpg">
 
 # Process
-<img src="/introduce/process.png">
+<img src="/Railway_introduce/process.png">
 From the top, the original images, black-and-white images, histogram smoothing images, blurry images, motionblur images, convolution images, sliding windows and prediction lines are shown in order.
 
 # Example
-<img src="/introduce/1.JPG"><img src="/introduce/2.JPG">
-<img src="/introduce/3.JPG"><img src="/introduce/4.JPG">
-<img src="/introduce/5.JPG">
+<img src="/Railway_introduce/1.JPG"><img src="/Railway_introduce/2.JPG">
+<img src="/Railway_introduce/3.JPG"><img src="/Railway_introduce/4.JPG">
+<img src="/Railway_introduce/5.JPG">
