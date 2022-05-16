@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftamasino52%2FRailway_detection)](https://hits.seeyoufarm.com)
 
-The project was developed as a base technology for autonomous train traffic, with only the areas corresponding to the tracks from the cameras installed at the front of the trains.
+The project deals with the detection of cracks in railway tracks. Unless these defects are detected and controlled earlier, they may lead to multiple derailments, resulting in heavy loss of life and property. A proposed rail crack detection detects the faulty rail track automatically without human intervention (Manual Survey), using the cameras installed at the front of the trains to only register the areas corresponding to the tracks.
 
 # 2. Requirements
 ```
